@@ -11,3 +11,4 @@ Creating a new branch is quick&simple
 Creating a new branch is quick and simple
 >>>>>>> feature1
 Creating a branch is name dev
+Git is a free software 
