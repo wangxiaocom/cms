@@ -5,4 +5,8 @@ it's test readme.txt.
 study git test code.
 git pull --rebase origin master
 Creating a new branch is quick.
+<<<<<<< HEAD
 Creating a new branch is quick&simple
+=======
+Creating a new branch is quick and simple
+>>>>>>> feature1
